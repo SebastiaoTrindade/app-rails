@@ -14,4 +14,6 @@
 //= require bootstrap-sprockets
 //= require activestorage
 //= require turbolinks
+//= require highcharts
+//= require chartkick
 //= require_tree .

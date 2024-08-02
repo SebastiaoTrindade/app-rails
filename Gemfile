@@ -17,6 +17,8 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'mini_racer', platforms: :ruby
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'paperclip', '~> 6.1'
+gem 'chartkick', '~> 5.0', '>= 5.0.7'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'

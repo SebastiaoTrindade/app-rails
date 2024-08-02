@@ -40,7 +40,7 @@ class BillsController < ApplicationController
 
     private
         def bills_params
-            params.require(:bill).permit(:name, :value, :category_id)
+            params.require(:bill).permit(:name, :value, :category_id, :image)
         end
 
         def set_bill
