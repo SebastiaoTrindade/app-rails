@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CRUD completo sem utilizar o Scaffold, tudo na mão para entender bem o processo do MVC.
 
-Things you may want to cover:
+Ferramentas utilizadas:
 
-* Ruby version
+* WSL2 for Windows
+* VS Code
+* Ruby 2.7.2
+* Rails v.5.2.8.1
 
-* System dependencies
+Gems utilizadas:
+* Bootstrap-sass - parte do Front End
+* Paperclip - para upload de arquivos
+* Chartkick - para criação de gráficos
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
